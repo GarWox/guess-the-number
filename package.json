@@ -1,0 +1,10 @@
+{
+  "name": "guess-the-number",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "keywords": [],
+  "author": "GarWox",
+  "license": "ISC",
+  "description": "Guess the number game"
+}
